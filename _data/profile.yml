@@ -1,9 +1,10 @@
 primary_name: "Dong Ma"
-secondary_name: "xxx"
+secondary_name: ""
 navbar_name: "Dong Ma"
 
 positions:
 - name: Associate Professor
+- name: Department of Computer Science and Technology
 - name: University of Cambridge, UK
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
