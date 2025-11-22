@@ -27,13 +27,13 @@ short_bio: >-
   University of Cambridge. Before joining Cambridge, I was an Assistant Professor at the School of Computing and Information Systems, 
   Singapore Management University.  Prior to that, I worked as a postdoctoral researcher at the Department of Computer Science and Technology, 
   University of Cambridge. I earned my PhD at the School of Computer Science and Engineering, University of New South Wales, Australia in 2019. 
-  I also worked as a research assistant at DATA61-CSIRO, Australia from 2016 to 2019. I had my bachelor and master study in Communication Engineering at Central South University, 
+  I also worked as a Research Assistant at DATA61-CSIRO, Australia from 2016 to 2019. I had my bachelor and master study in Communication Engineering at Central South University, 
   China, from 2010 to 2016.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+portrait_url: /assets/images/photos/dong.jpg
+# portrait_caption: >-
+#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: Massachusetts Institute of Technology
